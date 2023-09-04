@@ -40,6 +40,13 @@ Le projet Novy EAPC est une application web qui permet de gérer efficacement le
 - Frontend: [http://localhost:3000]
 
 ## Captures d'écran
+![addProfile](https://github.com/redouanemrabet/capdev-internship/assets/106490380/32877824-1da2-4bbf-9539-e791c58f5ae5)
+![allProfiles](https://github.com/redouanemrabet/capdev-internship/assets/106490380/6bf44b5b-eaa4-4795-a0e9-5cb260169ffc)
+![archive](https://github.com/redouanemrabet/capdev-internship/assets/106490380/3201024e-179e-40ae-83ac-40e646d6973e)
+![archiverProfile](https://github.com/redouanemrabet/capdev-internship/assets/106490380/7f3c0ec8-6f48-40b2-8118-67249155c1be)
+![Deleteprofiles](https://github.com/redouanemrabet/capdev-internship/assets/106490380/8ca55312-c8ca-4727-b335-17cd75c70325)
+![detailProfile](https://github.com/redouanemrabet/capdev-internship/assets/106490380/2200466e-af70-4dd2-82ef-4061c1cb219a)
+![home](https://github.com/redouanemrabet/capdev-internship/assets/106490380/472942f6-a607-4131-b775-3a138d6b92e6)
 
 ## Contact
 
