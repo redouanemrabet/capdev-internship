@@ -1,11 +1,9 @@
-# Novy EAPC
+# capdev-internship
 
-Bienvenue dans le dépôt GitLab du projet Novy EAPC !
-Ce projet vise à gérer les objectifs annuels et les entretiens avec les employés de l'entreprise `Novelis`.
 
 ## Présentation
 
-Le projet Novy EAPC est une application web qui permet de gérer efficacement les objectifs annuels des employés ainsi que leurs entretiens. Il est composé d'une partie backend développée en `Spring Boot` et d'une partie frontend développée en `Next.js`.
+Conception et développement d'une application destinée à une ressource humaine pour la gestion des profils des candidats. Il est composé d'une partie backend développée en `Spring Boot` et d'une partie frontend développée en `React.js`.
 
 ## Technologies Utilisées
 
@@ -32,7 +30,7 @@ Le projet Novy EAPC est une application web qui permet de gérer efficacement le
 2. Assurez-vous d'avoir Java 8, MySQL 8.0.28 et Node.js installés.
 3. Configurez la base de données MySQL en modifiant les paramètres dans le fichier `application.properties` du backend.
 4. Dans le dossier backend, lancez l'application Spring Boot en exécutant `./mvnw spring-boot:run` dans le terminal.
-5. Dans le dossier frontend, installez les dépendances avec la commande `npm install` et lancez le frontend avec `npm run dev`.
+5. Dans le dossier frontend, installez les dépendances avec la commande `npm install` et lancez le frontend avec `npm start`.
 
 ## Utilisation
 
